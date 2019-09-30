@@ -10,7 +10,7 @@ I also run a [custom firmware for sd2snes which enables savestates](https://twit
 
 Usually I prefer playing and beating games without cheats as overcoming the challenge of each title is part of the fun. However, it's sometimes nice to just relax with a nostalgic run through a favourite title without the threat of running out of lives on games from an era when Nintendo Difficult makes Dark Souls feel like Easy Mode ;)
 
-Most of the codes were obtained from the excellent [GameHacking.org](https://gamehacking.org) site but saved here for my own personal easy of use.
+Most of the codes were obtained from the excellent [GameHacking.org](https://gamehacking.org) site but saved here for my own personal ease of use.
 
 ## sd2snes cheats
 
