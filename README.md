@@ -37,7 +37,7 @@ Now, once in the game you can enable cheats using `L + R + Start + A`.
 
 ### Where can I get the custom firmware to enable savestates?
 
-You can download the custom sd2snes firmware from [dl.furious.pro](dl.furious.pro/sd2snes.zip).
+You can download the custom sd2snes firmware from [dl.furious.pro](http://dl.furious.pro/sd2snes.zip).
 
 ### How do I use the savestates?
 
